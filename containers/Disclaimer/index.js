@@ -10,7 +10,7 @@ function Disclaimer() {
                 <div className='pt-[100px] font-bold'>{"Disclaimer :"}</div>
                 <div>This website is a fan-made platform focused on the game Free Fire. It is created purely for entertainment and informational purposes and is not affiliated with Garena, Free Fire, or any of its official developers or partners.
                 </div>
-                <div>All references to Free Fire game elements—including names, logos, assets, or in-game currency like Diamonds—are the property of their respective owners. They are used here in a fair and respectful manner to share knowledge and content with fans.
+                <div>All references to Free Fire game elements including names, logos, assets, or in-game currency like Diamonds are the property of their respective owners. They are used here in a fair and respectful manner to share knowledge and content with fans.
                 </div>
                 <div>We do not provide or promise any real Diamonds, items, or rewards. This website does not conduct any actual transactions, and no purchases can be made through this platform. Any content related to Diamonds or in-game items is fictional or simulated, and meant purely for fun and general information.
                 </div>
