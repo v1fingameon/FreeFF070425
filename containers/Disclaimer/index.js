@@ -8,17 +8,17 @@ function Disclaimer() {
             <div className="flex flex-col text-white gap-6 mx-auto h-max ls:w-[360px] pb-10">
 
                 <div className='pt-[100px] font-bold'>{"Disclaimer :"}</div>
-                <div>This is not an official website, This website is developed purely for entertainment and fun.
+                <div>This website is a fan-made platform focused on the game Free Fire. It is created purely for entertainment and informational purposes and is not affiliated with Garena, Free Fire, or any of its official developers or partners.
                 </div>
-                <div> if you have any suggestions or issues with this web then please contact us.
+                <div>All references to Free Fire game elements—including names, logos, assets, or in-game currency like Diamonds—are the property of their respective owners. They are used here in a fair and respectful manner to share knowledge and content with fans.
                 </div>
-                <div>This is a Guide and informative website that helps you to get Diamonds,skin,emotes and improve your game.
+                <div>We do not provide or promise any real Diamonds, items, or rewards. This website does not conduct any actual transactions, and no purchases can be made through this platform. Any content related to Diamonds or in-game items is fictional or simulated, and meant purely for fun and general information.
                 </div>
-                <div>We don't collect any user personal information.
+                <div>We may display advertisements on this website to support its maintenance and content. However, we still do not collect any user data, passwords, payment details, or personal information.
                 </div>
-                <div>All images in the website are sourced from public domains. These images are not endorsed by their respective owners and are used solely for informational and entertainment purposes. 
+                <div>Visitors are advised to treat this website as a fan-driven, playful project, and not a source for any real in-game currency or benefits. 
                 </div>
-                <div>{"We Are Not Collecting Any Information And We Are Not Providing Any Cheats Or Hacks Of Any Games And Apps. This web Is Not Associated With Any Game Or Company.All property rights are owned by their respective holders."}</div>
+                <div>{"For any questions or concerns, feel free to contact us at contact@sprintpixel.com."}</div>
 
             </div>
 
