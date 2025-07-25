@@ -47,7 +47,7 @@ function Details() {
             <div>
               <a href='/players'>
                 <button className="flex items-center justify-center py-2.5 rounded-xl w-full bg-gradient-to-r from-purple-700 via-purple-500 to-blue-400">
-                  <span className="text-white text-lg leading-6 font-bold text-center">Apply Now</span>
+                  <span className="text-white text-lg leading-6 font-bold text-center">Learn More</span>
                 </button>
               </a>
 
