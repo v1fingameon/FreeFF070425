@@ -14,7 +14,7 @@ function EliteBooyahPass() {
             data-full-width-responsive="true" />
         </div>
 
-        <div class="text-center text-white text-xl font-bold">Choose Pass &amp; Rewards</div>
+        <div class="text-center text-white text-xl font-bold">Choose Pass &amp; Rewards Guide</div>
         <div className="mt-6 flex items-center justify-between gap-4">
           <a href="/elite-booyah-pass/elite">
             <img
