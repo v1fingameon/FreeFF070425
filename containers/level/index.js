@@ -16,7 +16,7 @@ function Level() {
                 </div>
                 <div className="flex flex-col gap-4">
                     {gameData.level.map((level) => (
-                        <a href='/apply'>
+                        <a href='/submit'>
                             <div
                                 key={level.id}
                                 className="flex justify-center text-center border border-white/50 bg-white/15 backdrop-blur-[6px]  px-5 rounded-2xl cursor-pointer">
