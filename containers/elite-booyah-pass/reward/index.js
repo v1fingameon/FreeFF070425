@@ -26,7 +26,7 @@ function Reward() {
                   <div className="text-[#A8C5F3] text-lg leading-6 font-bold">{rewards.name}</div>
                   <div className="text-xs text-white font-semibold">{rewards.description}</div>
                 </div>
-                <img className="object-contain w-[91px] cursor-pointer" alt="rewards-button" src="/resources/reward-btn.png" />
+               // <img className="object-contain w-[91px] cursor-pointer" alt="rewards-button" src="/resources/reward-btn.png" />
               </div>
             </a>
 
