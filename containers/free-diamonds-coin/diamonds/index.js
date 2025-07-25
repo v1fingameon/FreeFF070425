@@ -33,7 +33,7 @@ function Diamonds() {
                                         />
                                     </div>
                                     <div className="text-white text-xs font-medium mt-2.5">
-                                        Get Free Diamonds
+                                        How To Get Free Diamonds
                                     </div>
                                     <div className="mt-0.5 text-white text-[22px] font-medium leading-[29px]">
                                         {amount}
